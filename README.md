@@ -1,7 +1,10 @@
 # Novel-and-divergent-genes-in-the-evolution-of-placental-mammals
 
 The scripts in this repository were used in data processing for the paper Novel and divergent genes in the evolution of placental mammals. Dunwell et al. Proceedings of the Royal Society B, 2017.
-If any of these scripts or pipeline or parts there of are used please cite Novel and divergent genes in the evolution of placental mammals. Dunwell et al. Proceedings of the Royal Society B, 2017.
+
+If any of these scripts, or pipeline, or parts there of, are used please cite the following
+
+Dunwell TL, Paps J, Holland PWH. Novel and divergent genes in the evolution of placental mammals. Proc Biol Sci. 2017 Oct 11;284(1864). pii: 20171357. doi:10.1098/rspb.2017.1357. PubMed PMID: 28978728.
 
 Homology_Group_Frequency_Counting.py
 
